@@ -3,14 +3,14 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/12.11.0/firebas
 import { getDatabase, ref, push } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-database.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA9ZnmPeCMSVITv_jb-Yj60FKfWXLCEgms",
-    authDomain: "rammana-68c3f.firebaseapp.com",
-    databaseURL: "https://rammana-68c3f-default-rtdb.firebaseio.com",
-    projectId: "rammana-68c3f",
-    storageBucket: "rammana-68c3f.firebasestorage.app",
-    messagingSenderId: "423401039440",
-    appId: "1:423401039440:web:9cedd831a51bb059ee9355",
-    measurementId: "G-VEDVGEV1GJ"
+    apiKey: "AIzaSyCysmV6KV7SLbD6XHdqg44lJ6jc6R-AXzg",
+    authDomain: "bacckend-50d38.firebaseapp.com",
+    databaseURL: "https://bacckend-50d38-default-rtdb.firebaseio.com",
+    projectId: "bacckend-50d38",
+    storageBucket: "bacckend-50d38.firebasestorage.app",
+    messagingSenderId: "1081178620819",
+    appId: "1:1081178620819:web:d7185b0d6fc549af861e66",
+    measurementId: "G-KNQFY6ZM21"
 };
 
 const app = initializeApp(firebaseConfig);
